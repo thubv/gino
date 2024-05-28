@@ -439,3 +439,35 @@
 - Thiết bị kiểm tra sự thông mạch và tính chính xác của các dây dẫn trong cáp mạng LAN (LANケーブルの両
 
 端に取り付けられたモジュラープラグ間で、8本の線の配線が交差していないか、断線していないかを確認する装置です).
+
+### 5.1.4 Công việc ống dẫn (管工事)
+
+**Ống dẫn và ống thông gió (配管・ダクト)**
+- Ống dẫn nước hoặc khí được gọi là ống dẫn (配管), còn ống thông gió để dẫn không khí được gọi là ống thông gió (ダクト). Ống thông gió có hai loại: ống vuông (四角い形の角ダクト) và ống tròn (丸い形の丸ダクト, còn gọi là ống xoắn ốc スパイラルダクト).
+
+**Mỏ cặp ống (パイプ万力)**
+- Dụng cụ dùng để cố định ống khi cắt hoặc nối ống (管の切断や接合をするときに、管を固定する工具).
+
+**Máy cắt ren ống (パイプねじ切機)**
+- Máy dùng để cắt ren trên ống (パイプにねじを切るための機械).
+
+**Dụng cụ cắt ống (チューブカッター)**
+- Dụng cụ dùng để cắt các loại ống mỏng làm bằng sắt, thép, đồng thau, đồng và nhôm (鉄・鋼・真鍮・銅・アルミニウムなどでできている薄い管を切る工具).
+
+**Dụng cụ uốn ống (チューブベンダー)**
+- Dụng cụ dùng để uốn ống đồng (銅管を曲げる工具).
+
+**Dụng cụ cắt ống lớn (パイプカッター)**
+- Dụng cụ dùng để cắt các loại ống lớn hơn làm bằng thép, đồng thau, đồng, gang rèn và chì (鋼・真鍮・銅・錬鉄・鉛でできているパイプを切る工具). Dụng cụ này có thể cắt các ống dày hơn so với dụng cụ cắt ống (チューブカッターに比べて、厚い管を切断できます).
+
+**Kìm ống (パイプレンチ)**
+- Kìm dùng để nắm chặt và xoay các ống tròn không có điểm nắm, sử dụng khi nối ống và khớp nối (丸くてつかみ所のない管を強くつかんで回転させ、管と継手を接合する際に使用する工具). Còn gọi là "paipen" (パイレン).
+
+**Dụng cụ mở rộng ống (エキスパンダー)**
+- Dụng cụ dùng để mở rộng đầu ống đồng để nối ống (銅パイプの端を広げて管をつなぐために使われる工具). Còn gọi là "kakukanki" (拡管器).
+
+**Dụng cụ loe đầu ống (フレアリングツール)**
+- Dụng cụ dùng để mở rộng đầu ống mềm như ống đồng (銅パイプなどの軟質管の端面を広げる工具).
+
+**Dụng cụ vát mép (面取り器)**
+- Dụng cụ dùng để làm nhẵn các mép cắt của ống sau khi cắt (管の切断後に切断面を滑らかにする工具).
