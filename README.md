@@ -1,3 +1,4 @@
+# Mục lục
 **Chương 5: Kiến thức về dụng cụ, máy móc, vật liệu và thiết bị đo lường được sử dụng tại công trường**
 
 #### 5.1 Dụng cụ, máy móc, vật liệu và thiết bị đo lường đặc thù theo ngành nghề
@@ -94,11 +95,20 @@
 - 7.2.6 Biển báo để nhận thức về công việc an toàn
 - 7.2.7 Hiểu biết về lỗi của con người (human error)
 
-#### Chương 5: Kiến thức về dụng cụ, máy móc, vật liệu và thiết bị đo lường được sử dụng tại công trường (工事現場で使われる工具、機械、材料、計測器の知識)
 
-#### 5.1 Dụng cụ, máy móc, vật liệu và thiết bị đo lường đặc thù theo ngành nghề (職種固有の工具、機械、材料、計測器)
+<br>
+<br>
+<br>
 
-##### 5.1.1 Máy móc xây dựng (建設機械)
+
+
+
+
+# Chương 5: Kiến thức về dụng cụ, máy móc, vật liệu và thiết bị đo lường được sử dụng tại công trường (工事現場で使われる工具、機械、材料、計測器の知識)
+
+## 5.1 Dụng cụ, máy móc, vật liệu và thiết bị đo lường đặc thù theo ngành nghề (職種固有の工具、機械、材料、計測器)
+
+### 5.1.1 Máy móc xây dựng (建設機械)
 
 **Máy đào thủy lực (バックホウ)**
 - Máy đào thủy lực sử dụng xi lanh thủy lực để điều khiển cần, cánh tay, và gầu. Nó thực hiện các công việc như đào và chất liệu lên xe tải bằng cách xoay bộ phận phía trên. Có thể thay đổi các phụ kiện để sử dụng máy cho nhiều mục đích khác nhau như phá đá, cắt, và nghiền.
@@ -136,7 +146,7 @@
 **Cần cẩu bánh xích (クローラクレーン)**
 - Cần cẩu bánh xích có thể hoạt động trên nhiều loại địa hình khác nhau, kể cả tuyết và mặt đất không được lát.
 
-##### 5.1.2 Công việc lắp đặt thiết bị điện (電気設備工事)
+### 5.1.2 Công việc lắp đặt thiết bị điện (電気設備工事)
 
 **Thiết bị kiểm tra điện (検電器)**
 - Thiết bị này được sử dụng để kiểm tra xem có điện hay không. Có loại dùng cho điện áp thấp (低圧用) và loại dùng cho điện áp cao (高圧用).
