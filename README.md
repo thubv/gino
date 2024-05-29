@@ -30,69 +30,69 @@
 ### Chương 6: Kiến thức về thi công tại công trường xây dựng
 
 #### 6.1 Các vấn đề chung tại công trường xây dựng
-- **6.1.1 Đặc điểm của công trình xây dựng**
-- **6.1.2 Kế hoạch thi công**
-- **6.1.3 Quản lý thi công**
-- **6.1.4 Chuẩn bị trước khi thi công**
-- **6.1.5 Đánh dấu (墨付け)**
+- 6.1.1 Đặc điểm của công trình xây dựng
+- 6.1.2 Kế hoạch thi công
+- 6.1.3 Quản lý thi công
+- 6.1.4 Chuẩn bị trước khi thi công
+- 6.1.5 Đánh dấu (墨付け)
 
 #### 6.2 Kiến thức thi công gia công ống
-- **6.2.1 Gia công ống thép cacbon cho đường ống**
-- **6.2.2 Gia công ống nhựa cứng Polyvinyl Chloride**
-- **6.2.3 Gia công ống thép lót nhựa cứng cho đường nước**
+- 6.2.1 Gia công ống thép cacbon cho đường ống
+- 6.2.2 Gia công ống nhựa cứng Polyvinyl Chloride
+- 6.2.3 Gia công ống thép lót nhựa cứng cho đường nước
 
 #### 6.3 Công trình thiết bị điều hòa không khí lạnh
-- **6.3.1 Gia công ống đồng có vỏ bọc cho môi chất lạnh**
-- **6.3.2 Kết nối ống môi chất lạnh**
+- 6.3.1 Gia công ống đồng có vỏ bọc cho môi chất lạnh
+- 6.3.2 Kết nối ống môi chất lạnh
 
 #### 6.4 Công trình cách nhiệt và cách nhiệt lạnh
-- **6.4.1 Hình dạng và các loại vật liệu cách nhiệt**
-- **6.4.2 Ví dụ về cách nhiệt và cách nhiệt lạnh cho đường ống**
-- **6.4.3 Ví dụ về cách nhiệt và cách nhiệt lạnh cho ống dẫn khí**
+- 6.4.1 Hình dạng và các loại vật liệu cách nhiệt
+- 6.4.2 Ví dụ về cách nhiệt và cách nhiệt lạnh cho đường ống
+- 6.4.3 Ví dụ về cách nhiệt và cách nhiệt lạnh cho ống dẫn khí
 
 #### 6.5 Công trình đường ống dịch vụ công cộng
-- **6.5.1 Thi công ống gang dẻo cho đường nước**
-- **6.5.2 Kết nối EF cho đường nước và khí**
-- **6.5.3 Các điểm cần chú ý trong công trình điện và viễn thông**
-- **6.5.4 Các điểm cần chú ý trong công trình chôn ống**
+- 6.5.1 Thi công ống gang dẻo cho đường nước
+- 6.5.2 Kết nối EF cho đường nước và khí
+- 6.5.3 Các điểm cần chú ý trong công trình điện và viễn thông
+- 6.5.4 Các điểm cần chú ý trong công trình chôn ống
 
 #### 6.6 Công trình tấm kim loại xây dựng
-- **6.6.1 Gia công tấm kim loại**
-- **6.6.2 Phương pháp kết nối ống dẫn khí**
+- 6.6.1 Gia công tấm kim loại
+- 6.6.2 Phương pháp kết nối ống dẫn khí
 
 #### 6.7 Công trình thiết bị điện
-- **6.7.1 Các điểm cần chú ý khi làm việc với thiết bị điện cao áp và trạm biến áp**
-- **6.7.2 Ngắn mạch, chạm đất, rò điện**
-- **6.7.3 Các điểm cần chú ý khi thi công ép dây điện**
-- **6.7.4 Cắt, hỏng hóc ống chôn ngầm và dây điện treo trên không**
-- **6.7.5 Các điểm cần chú ý khi sử dụng đường**
+- 6.7.1 Các điểm cần chú ý khi làm việc với thiết bị điện cao áp và trạm biến áp
+- 6.7.2 Ngắn mạch, chạm đất, rò điện
+- 6.7.3 Các điểm cần chú ý khi thi công ép dây điện
+- 6.7.4 Cắt, hỏng hóc ống chôn ngầm và dây điện treo trên không
+- 6.7.5 Các điểm cần chú ý khi sử dụng đường
 
 #### 6.8 Công trình điện và viễn thông
-- **6.8.1 Các loại thiết bị điện và viễn thông**
-- **6.8.2 Thiết lập đường ống ngầm**
-- **6.8.3 Các điểm cần chú ý khi làm việc**
+- 6.8.1 Các loại thiết bị điện và viễn thông
+- 6.8.2 Thiết lập đường ống ngầm
+- 6.8.3 Các điểm cần chú ý khi làm việc
 
 #### 6.9 Công trình lò
-- **6.9.1 Các loại công trình lò**
+- 6.9.1 Các loại công trình lò
 
 #### 6.10 Công trình thiết bị cứu hỏa
-- **6.10.1 Các loại thiết bị cứu hỏa**
+- 6.10.1 Các loại thiết bị cứu hỏa
 
 ### Chương 7: An toàn trong công việc xây dựng
 
 #### 7.1 Tai nạn tử vong trong công việc xây dựng
-- **7.1.1 Tình trạng tai nạn tử vong trong công việc xây dựng**
-- **7.1.2 Các loại tai nạn tử vong**
-- **7.1.3 Đặc điểm của công trình hạ tầng và thiết bị với số vụ tai nạn tử vong cao**
+- 7.1.1 Tình trạng tai nạn tử vong trong công việc xây dựng
+- 7.1.2 Các loại tai nạn tử vong
+- 7.1.3 Đặc điểm của công trình hạ tầng và thiết bị với số vụ tai nạn tử vong cao
 
 #### 7.2 Hoạt động an toàn tại công trường xây dựng
-- **7.2.1 Chu kỳ thi công an toàn**
-- **7.2.2 Đào tạo an toàn vệ sinh cho người mới**
-- **7.2.3 Đào tạo người mới vào công trường**
-- **7.2.4 Trang bị để làm việc an toàn**
-- **7.2.5 Biện pháp phòng chống say nắng**
-- **7.2.6 Biển báo để nhận thức về công việc an toàn**
-- **7.2.7 Hiểu biết về lỗi của con người (human error)**
+- 7.2.1 Chu kỳ thi công an toàn
+- 7.2.2 Đào tạo an toàn vệ sinh cho người mới
+- 7.2.3 Đào tạo người mới vào công trường
+- 7.2.4 Trang bị để làm việc an toàn
+- 7.2.5 Biện pháp phòng chống say nắng
+- 7.2.6 Biển báo để nhận thức về công việc an toàn
+- 7.2.7 Hiểu biết về lỗi của con người (human error)
 
 #### Chương 5: Kiến thức về dụng cụ, máy móc, vật liệu và thiết bị đo lường được sử dụng tại công trường (工事現場で使われる工具、機械、材料、計測器の知識)
 
